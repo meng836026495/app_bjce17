@@ -1,0 +1,9 @@
+info: &data
+  name: 孟港
+  age: 18
+
+people:
+  <<: *data
+  address: 河北省邯郸市
+  shuaibushuai: 帅
+  song: 好听

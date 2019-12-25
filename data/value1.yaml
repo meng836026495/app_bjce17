@@ -1,0 +1,33 @@
+#name: "lili"
+#Name: "lili"
+#NAme: "lili"
+#NAME: "lili"
+
+#value1: {name1: 李白,name2: 诸葛亮}
+#
+#value:
+#  name1: 李白
+#  name2: 找死
+
+#value: [1,1,2]
+
+#value:
+#  - name: 孟港
+#  - 2
+#  - - 3
+#  - - - - 5
+
+#value: True
+#value1: False
+
+
+
+#value: ~
+#value:
+#value: None
+#value: 2012-12-12
+#value: 12:12:12
+#value: Null
+#value: null
+#value: 2020-12-12 12:12:02
+value: 2012-01-01
